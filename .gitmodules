@@ -1,7 +1,3 @@
-[submodule "Common"]
-path = Common
-url = ssh://git@github.com/CodeEditorLand/Common.git
-
 [submodule "Ingress"]
 path = Ingress
 url = ssh://git@github.com/CodeEditorLand/Ingress.git
