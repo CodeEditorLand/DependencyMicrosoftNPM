@@ -9,11 +9,7 @@
 				</picture>
 			</h3>
 		</td>
-		<td colspan="3" valign="top">
-			<h3 align="center">
-				NPM
-			</h3>
-		</td>
+		<td colspan="3" valign="top"><h3 align="center">NPM&#x2001;📦</h3></td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="1">
@@ -51,11 +47,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/Common" target="_blank">
-				<b>
-					Common&#x2001;🧑🏻‍🏭&#x2001;Land&#x2001;🏞️
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/Common" target="_blank"><b>Common&#x2001;🧑🏻‍🏭&#x2001;Land&#x2001;🏞️</b></a>
 		</td>
 		<td valign="top" colspan="1">
 			<a href="https://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
@@ -92,11 +84,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
-				<b>
-					Ingress&#x2001;➡️&#x2001;Land&#x2001;🏞️
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/Ingress" target="_blank"><b>Ingress&#x2001;➡️&#x2001;Land&#x2001;🏞️</b></a>
 		</td>
 	</tr>
 </table>
